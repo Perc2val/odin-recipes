@@ -1,0 +1,32 @@
+* {
+    border:  3px black;
+}
+
+.backgroundGradient{
+    background-image: linear-gradient(to bottom right, blue, lightblue);
+}
+.ingredientsSteps{
+    display: inline-block;
+    vertical-align: top;
+    padding: 20px;
+    margin: 20px auto;
+    height: 80vh;
+    color: white;
+    border: 3px white solid;
+    border-radius: 5px;
+}
+
+
+
+a{
+    display: block;
+    text-align: center;
+}
+
+li {
+    padding: 10px;
+}
+
+h1 {
+    text-align: center;
+}
